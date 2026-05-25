@@ -25,6 +25,9 @@ It covers roughly two years of data (May 2023 – April 2025) and lets you slice
 | Total Quantity Sold | 90.4K |
 
 ---
+🔗 Accessing the Dashboard
+The dashboard is published on Google Looker Studio and can be viewed directly in any browser — no login or account required.
+Dashboard Link: https://datastudio.google.com/reporting/f66db0b8-51a4-4d71-b63e-3f51fffb7332
 
 ## What's Inside
 
